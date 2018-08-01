@@ -1,12 +1,39 @@
-body { background-color:#ede8e8;
+body {
+  background-color:#ede8e8;
 }
 
-
-h1 { text-shadow:3px, 2px #666666;
+.jumbotron{
+  background-color: #ede8e8
 }
 
-div { font-family: 'Gloria Hallelujah', sans-serif;
+div {
+  font-family: 'Gloria Hallelujah', sans-serif;
 }
 
-#Intro-style {"padding:5%; text-align: center; background-color: #c9c7c7; margin: 3%">Stuff!!<span style="color: red; font-family:'Gloria Hallelujah', sans-serif;"
+#Intro-style {
+  padding:5%;
+  text-align: center;
+  background-color: #c9c7c7;
+  margin: 3%;
+  color: red;
+  font-family:'Gloria Hallelujah', sans-serif;
+}
+
+.one {
+  float: left;
+  width: 10%;
+}
+
+.two{
+  float: right;
+  width: 10%;
+}
+
+.three{
+  text-align:center; font-family:'Gloria Hallelujah', sans-serif;
+}
+
+#carouselExampleIndicators {
+  width: 50%;
+  margin: auto;
 }
