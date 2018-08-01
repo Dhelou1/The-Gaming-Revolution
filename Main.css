@@ -30,9 +30,80 @@ div {
 }
 
 .three{
-  text-align:center; font-family:'Gloria Hallelujah', sans-serif;
+  text-align:center;
+  font-family:'Gloria Hallelujah',
+  sans-serif;
 }
 
+.four{
+text-align:center;
+background-color:#c9c7c7;
+}
+
+.five{
+width: 50%;
+float:left;
+background-color:#c9c7c7;
+}
+
+.six{
+font-family: 'Gloria Hallelujah';
+text-align: center;
+}
+
+.seven{
+text-align: center;
+font-size: 200%;
+}
+
+.eight{
+width:50%;
+float:left;
+background-color:#c9c7c7;
+}
+
+.nine{
+font-family: 'Gloria Hallelujah';
+text align: center
+}
+
+.ten{
+text-align: center;
+font-size: 200%
+}
+
+.eleven{
+text-align: center
+}
+
+.twelve{
+padding:5%;
+text-align: center;
+font-family:'Gloria Hallelujah', sans-serif;
+background-color: #c9c7c7;
+margin: 3%;
+color: #c9c7c7
+}
+
+.thirteen{
+text-align: center; width: 25%;
+}
+
+.fourteen{
+font-family: 'Gloria Hallelujah'; font-size: 50%;
+}
+
+.fifteen{
+float: left; font-size: 50%;
+}
+
+.sixteen{
+font-size: 50%; float: right;
+}
+
+.seventeen{
+
+}
 #carouselExampleIndicators {
   width: 50%;
   margin: auto;
