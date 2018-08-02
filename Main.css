@@ -38,6 +38,9 @@ div {
 .four{
 text-align:center;
 background-color:#c9c7c7;
+border-style: solid;
+border-width: 20px;
+border-color: white;
 }
 
 .five{
