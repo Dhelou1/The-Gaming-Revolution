@@ -1,3 +1,15 @@
+
+
+.jumbotron{
+  text-align: center;
+  font-size: 250%;
+}
+
+#carouselExampleSlidesOnly{
+  width:50%;
+  margin:auto;
+}
+
 .jumbotron{
   font-size:300%;
   text-align:center;
@@ -45,6 +57,7 @@ text-align: center;
 
 .razerblade{
   text-align: center;
+  font-size: 25%;
 }
 
 .omentwostyle{
