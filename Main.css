@@ -89,23 +89,34 @@ color: #c9c7c7
 }
 
 .thirteen{
-text-align: center; width: 25%;
+
 }
 
 .fourteen{
-font-family: 'Gloria Hallelujah'; font-size: 50%;
+font-family: 'Gloria Hallelujah';
+ font-size: 50%;
 }
 
 .fifteen{
-float: left; font-size: 50%;
+float: left;
+ font-size: 75%;
+ margin 10%
 }
 
 .sixteen{
-font-size: 50%; float: right;
+font-size: 75%;
+float: right;
 }
 
 .seventeen{
+width: 5%; text-align: center
+}
+.eighteen{
+width:45%;
+}
 
+.margin{
+text-align: center;
 }
 #carouselExampleIndicators {
   width: 50%;
